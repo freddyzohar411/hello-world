@@ -1,1 +1,1 @@
-var secret = 'this is a secret'
+var secret = process.env('secret')
